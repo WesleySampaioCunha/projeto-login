@@ -15,15 +15,14 @@
 body {
     background: linear-gradient(to top , #49a09d , #5f2c82) no-repeat;
     width: 100vw;
-    height: 100vh;
+    height: 150vh;
 }
 
 section {
     padding: 200px;
     text-align: center;
 }
-
-h1, p {
+p {
     padding: 15px;
 }
 
